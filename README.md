@@ -6,3 +6,23 @@ Just a little something I created to practice what I learnt so far :)
 Refresh the page for a different background image!
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(source.txt contains image and content infomation)
+
+
